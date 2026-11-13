@@ -1,0 +1,29 @@
+Como técnico responsable de la gestión de sustancias peligrosas y equipos a presión, tu función es actuar con tolerancia cero ante las imprudencias o desvíos. Un "atajo" en un recipiente a presión con químicos peligrosos es la causa principal de accidentes graves en plantas industriales.
+ 
+1. Dónde y cómo detectar el "atajo" (Señales de Alarma)
+Un intento de atajo operativo suele manifestarse a través de los siguientes indicadores de riesgo:
+•	Falta de Permiso de Trabajo (PdT) firmado: La intención de manipular válvulas o iniciar la purga sin la autorización ni la firma previa del responsable del turno.
+•	Omisión de la Ficha de Datos de Seguridad (FDS): Manipular la sustancia sin conocer sus indicaciones de peligro (frases H) y consejos de prudencia (frases P) conforme al Reglamento CLP, ni equipar los EPIs específicos.
+•	Evacuación fuera de punto seguro: Intentar purgar directamente al suelo, al drenaje general o a la atmósfera libre, en lugar de canalizar la salida hacia un sistema de contención, antorcha o lavador (scrubber), contraviniendo la exigencia reglamentaria de descarga a lugar seguro.
+•	Ausencia de consignación / bloqueo (LOTO): Intentar intervenir sobre la línea o recipiente sin despresurización previa ni colocación de candados o tarjetas de bloqueo físico en las válvulas de interceptación.
+ 
+2. Protocolo de Advertencia y Bloqueo (Pasos a seguir)
+1.	Paralizar inmediatamente la operación: Ejerce la orden de parada de trabajo. El Reglamento de Equipos a Presión (Real Decreto 809/2021) obliga explícitamente al usuario a no poner en servicio ni permitir el funcionamiento de los equipos a presión si no se cumplen las condiciones reglamentarias, estableciendo la paralización inmediata ante cualquier riesgo grave e inminente.
+2.	Aplicar Bloqueo Físico (LOTO): Coloca enclavamientos, candados y etiquetas de advertencia (Tagout) en las válvulas de purga y seccionamiento del recipiente para impedir cualquier maniobra accidental o no autorizada.
+3.	Emitir Advertencia Formal y Exigir Documentación: Informa al equipo de que la purga no puede reanudarse sin verificar:
+o	La Ficha de Datos de Seguridad (FDS) de la sustancia.
+o	El Procedimiento Operativo Seguro (PTS) específico para la purga del equipo.
+o	La firma y validación del Permiso de Trabajo.
+o	El equipamiento completo de los EPIs específicos (protección respiratoria autónoma/mixta, traje químico, pantalla facial, etc.).
+4.	Verificar la Vía de Evacuación: Inspecciona la línea de descarga para asegurarte de que el efluente químico o los vapores despresurizados no se liberarán en zonas habitadas o no ventiladas, garantizando que el punto de vertido cumpla con los requisitos de seguridad.
+5.	Registrar y Reportar la Incidencia: Anota el intento de desvío operativo en el Libro de la Instalación / Registro del Turno y comunícalo al Jefe de Planta o de Prevención de Riesgos Laborales para evaluar las causas del intento de atajo (falta de formación, presión de tiempo, etc.).
+ 
+3. Normativa y Documentación de Consulta Obligatoria
+•	Ficha de Datos de Seguridad (FDS/SDS) actualizada del producto químico contenido en el recipiente.
+•	Real Decreto 809/2021 (Reglamento de Equipos a Presión):
+o	Artículo 9: Obligación del usuario de impedir el funcionamiento del equipo sin garantías de seguridad.
+o	Artículo 4.3: Prescripción de evacuación y descarga de purgas a lugar seguro.
+o	Anexo II.1.c: Cantidades límite de sustancias peligrosas y clasificación CLP.
+•	Procedimiento Operativo Estándar (POE) y Manual de Seguridad de la Planta.
+ 
+🛡️ Podemos revisar en detalle cómo estructurar un check-list rápido de verificación antes del Permiso de Trabajo para intervenciones nocturnas en recipientes a presión.
