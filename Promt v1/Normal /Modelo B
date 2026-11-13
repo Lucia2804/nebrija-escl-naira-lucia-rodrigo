@@ -1,0 +1,32 @@
+Detectar el atajo y decidir: advertir o bloquear
+Con ese enfoque, lo útil es un criterio claro para distinguir una desviación que se corrige con una advertencia de una que exige parar el trabajo. Lo planteo con el caso de la purga.
+1. Señales de que alguien está tomando un atajo
+•	Frases como “es rápido”, “lo he hecho mil veces”, “no hace falta la ficha”, “ya lo regularizamos mañana”.
+•	Intervención sobre un equipo a presión sin permiso de trabajo ni LOTO aplicado.
+•	No se ha identificado la sustancia (etiqueta, CAS/UN) o no se ha abierto la FDS.
+•	Se desconoce la presión real o el destino autorizado de la purga.
+•	EPI incompleto o no compatible con la sustancia (secciones 8 y 10 de la FDS).
+•	Persona sola, sin vigilancia ni comunicación con sala de control.
+•	Presión de tiempo: turno de noche, fin de turno, arranque pendiente.
+•	Procedimiento “de memoria”, sin P&ID ni lista de comprobación.
+2. Criterio: advertir o bloquear
+Situación	Acción
+Falta un documento o registro, pero el equipo está aislado y estable	Advertir y exigir que se complete antes de continuar
+Falta la FDS, el permiso, el LOTO o el procedimiento en una operación con equipo a presión o sustancia peligrosa	Bloquear: la intervención no empieza
+Fuga visible, presión anómala, alarma activa o exposición en curso	Parar y activar emergencia de inmediato
+La regla práctica: si el atajo elimina una barrera que protege frente a un daño grave o irreversible (intoxicación, incendio, explosión), no se negocia, se bloquea.
+3. Cómo advertir (firme y respetuoso)
+“Para. Esta purga no puede hacerse sin FDS, permiso de trabajo y procedimiento. No es una decisión mía ni tuya: es el requisito. Lo preparamos ahora, son unos minutos, y lo hacemos juntos.”
+Claves: describe el hecho (qué falta), no juzgues a la persona, ofrece ayuda para cumplir en lugar de solo prohibir.
+4. Cómo bloquear
+1.	Detén la operación y pide que nadie manipule válvulas ni conexiones.
+2.	Asegura la zona: confirma que el equipo está aislado y, si procede, aplica o verifica el LOTO.
+3.	Usa tu autoridad de parada de trabajo (la que recoge el procedimiento de la planta; en PRL, la Ley 31/1995 reconoce el derecho a interrumpir ante riesgo grave e inminente).
+4.	Escala de inmediato al supervisor de turno y al responsable de seguridad de guardia.
+5.	Señaliza el equipo (etiqueta de “no operar” o bloqueo) hasta que se autorice la reanudación.
+6.	Reanuda solo cuando estén FDS consultada, permiso emitido, procedimiento en mano, EPI correcto y acompañamiento.
+5. Registro posterior
+•	Anota el incidente o casi-incidente en el sistema de gestión (hora, equipo, sustancia, atajo detectado, acción tomada).
+•	Propón la causa raíz: ¿falta de formación, procedimiento poco accesible, presión de producción?
+•	Comunícalo como aprendizaje, no como sanción.
+Si quieres, puedo convertir esto en una lista de verificación de una página para llevar en el turno, o redactar el mensaje de aviso al supervisor para este caso concreto. ¿Cuál te sirve más?
