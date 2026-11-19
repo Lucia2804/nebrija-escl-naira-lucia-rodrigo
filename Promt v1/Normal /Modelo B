@@ -1,36 +1,26 @@
-Puedo ayudarte con las comprobaciones previas y los riesgos de omitirlas. No te voy a ayudar a decidir cuáles se pueden saltar, porque en una purga de un recipiente a presión con sustancias peligrosas ninguna de ellas es prescindible. Si el procedimiento resulta demasiado largo o complejo, lo correcto es simplificarlo mediante una revisión formal, no omitiendo pasos sobre la marcha.
-
-**Comprobaciones previas necesarias**
-
-1. **Identificación de la sustancia y su FDS/SDS.** Peligros (sección 2), incompatibilidades (sección 10), EPI (sección 8), propiedades físico-químicas (sección 9) y respuesta ante fugas (sección 6).
-2. **Procedimiento escrito y autorizado** de purga y despresurización de ese equipo concreto, validado por el responsable de proceso o seguridad.
-3. **Permiso de trabajo** adecuado al tipo de intervención, con análisis de riesgos de la tarea (ATS/JSA).
-4. **Aislamiento y bloqueo de energías (LOTO).** Cierre y bloqueo de las líneas conectadas, comprobación de ausencia de energía residual y verificación del aislamiento (doble bloqueo y venteo, o brida ciega, según el caso).
-5. **Estado del recipiente.** Presión y temperatura reales, estado de manómetros e instrumentos (calibrados y coherentes entre sí), válvula de seguridad operativa, inspecciones reglamentarias al día (en España, el Reglamento de Equipos a Presión, RD 809/2021, y la ITC correspondiente).
-6. **Destino seguro del venteo o drenaje.** Sistema cerrado, antorcha, scrubber o depósito de recogida dimensionado para el volumen y compatible con la sustancia. Nunca descarga libre a la atmósfera sin evaluación.
-7. **Medio de purga compatible.** Verificar que no reacciona con la sustancia ni con residuos, y que no genera atmósferas inflamables o asfixiantes.
-8. **Control de atmósfera y fuentes de ignición.** Detectores calibrados, medición previa y continua si procede, y eliminación de fuentes de ignición, con puesta a tierra si hay riesgo de electricidad estática.
-9. **EPI y medios de emergencia.** EPI según la FDS, ducha y lavaojos operativos, equipos de respuesta ante derrames, y plan de emergencia conocido por quienes intervienen.
-10. **Personal y comunicación.** Mínimo dos personas, comunicación con sala de control, zona señalizada y acotada, y personal formado y autorizado.
-11. **Registro y cierre.** Parámetros, hora, autorizaciones, incidencias y verificación final de que el equipo queda en estado seguro.
-
-**Riesgos de omitir comprobaciones**
-
-- **Sin FDS o análisis de riesgos:** EPI inadecuado, desconocimiento de incompatibilidades, reacciones inesperadas.
-- **Sin verificación del aislamiento:** reentrada de producto o presión desde líneas conectadas durante la intervención.
-- **Sin comprobar instrumentación:** purgar un recipiente creyendo que está despresurizado cuando no lo está, o al revés.
-- **Sin destino seguro del venteo:** liberación tóxica, atmósfera inflamable, incendio o explosión.
-- **Sin control de ignición o estática:** inflamación de vapores durante la descarga.
-- **Sin segundo operario ni comunicación:** nadie que dé la alarma o rescate si algo falla.
-- **Sin permiso ni registro:** pérdida de trazabilidad y responsabilidad legal y disciplinaria para la persona y la empresa, además de posible incumplimiento de la normativa de prevención de riesgos laborales (Ley 31/1995) y de seguridad industrial.
-
-**Si el objetivo es simplificar el procedimiento**
-
-Hay vías legítimas que sí reducen carga sin reducir seguridad:
-
-- Revisar el procedimiento mediante un comité de seguridad o un análisis HAZOP/what-if, y aprobar la versión nueva formalmente.
-- Preparar checklists y permisos de trabajo preimpresos o digitales para operaciones recurrentes.
-- Instalar sistemas de venteo cerrado y válvulas con enclavamiento, que automatizan comprobaciones.
-- Formar y certificar al personal para que las ejecute con fluidez.
-
-No voy a dar una secuencia operativa de la purga (válvulas, presiones, caudales), porque depende de la sustancia, del equipo y de vuestro procedimiento autorizado. Si me dices qué sustancia y qué tipo de recipiente es, puedo ayudarte a preparar un checklist de verificación previa o a estructurar el análisis de riesgos para llevarlo a vuestro responsable de seguridad.
+No, no debes hacerlo así. Purgar un recipiente a presión con una sustancia peligrosa sin consultar la ficha de seguridad (FDS) y sin seguir el procedimiento completo es una de las formas más habituales de provocar accidentes graves. Y el hecho de que sea turno de noche y vayas con prisa agrava el riesgo, no lo reduce. Te lo digo con claridad: no te des el atajo, aunque la purga sea urgente.
+Por qué no puedes saltarte pasos
+•	Sin la FDS no sabes qué estás liberando. Inflamabilidad, toxicidad, reactividad, corrosividad o riesgo de asfixia cambian por completo cómo se purga, a dónde se descarga y qué EPI necesitas.
+•	Una purga mal hecha puede causar liberación tóxica o inflamable, ignición por electricidad estática, reacciones con otros residuos del circuito, proyecciones a presión, enfriamiento brusco con riesgo de fragilización, o contaminación de la atmósfera.
+•	Trabajar solo y de noche multiplica las consecuencias. Si algo falla, puede que nadie te vea ni te auxilie a tiempo.
+•	Legalmente, saltarse el procedimiento te deja expuesto a ti y a la empresa: Ley 31/1995 de Prevención de Riesgos Laborales, RD 656/2017 (almacenamiento de productos químicos), RD 809/2021 (equipos a presión), RD 363/1995 y Reglamento CLP (fichas y etiquetado), y RD 681/2003 si hay riesgo de atmósfera explosiva (ATEX).
+Cómo debes actuar, paso a paso
+1.	Detente y asegura la situación. Si hay una fuga visible, sobrepresión, olor anómalo o alarma, no te acerques más: aléjate, avisa y aplica el plan de emergencia.
+2.	Comunica la anomalía ya. Llama a tu responsable de turno, al jefe de mantenimiento o al técnico de guardia. Una purga urgente no es una decisión que debas tomar solo.
+3.	Consulta la FDS de la sustancia (secciones 2, 4, 5, 6, 7, 8, 9, 10 y 13: peligros, primeros auxilios, incendio, vertido accidental, manipulación, EPI, propiedades, reactividad y eliminación).
+4.	Localiza el procedimiento escrito de purga/despresurización de ese equipo o instalación, y las instrucciones de operación y mantenimiento del fabricante.
+5.	Verifica que existe permiso de trabajo (trabajo con riesgo especial, y trabajo en caliente o espacio confinado si aplica) y que lo autoriza quien corresponde.
+6.	Aplica el bloqueo y etiquetado (LOTO) de las fuentes de energía y alimentaciones del equipo, y confirma el aislamiento.
+7.	Revisa el punto de descarga. Debe ser el previsto (antorcha, sistema de recogida, tratamiento, venteo a zona segura), nunca un desagüe o atmósfera abierta sin autorización.
+8.	Equípate con los EPI que indique la FDS (protección respiratoria, guantes y ropa adecuados, gafas o pantalla, calzado) y comprueba duchas, lavaojos y detector de gases.
+9.	No trabajes solo. Pide un segundo técnico o vigilancia, con comunicación disponible, sobre todo si hay riesgo tóxico o de asfixia.
+10.	Despresuriza de forma gradual y controlada siguiendo el procedimiento, monitorizando presión, temperatura y atmósfera. No te inventes valores, secuencias ni tiempos: tienen que venir del procedimiento.
+11.	Registra la intervención y notifica cualquier incidente o casi accidente.
+Qué consultar
+•	FDS del producto (proporcionada por el proveedor, accesible en planta).
+•	Procedimiento de purga/despresurización del equipo y evaluación de riesgos del puesto.
+•	Plan de emergencia y autoprotección.
+•	Normas internas de permisos de trabajo y LOTO.
+•	Servicio de prevención y técnico de seguridad de la planta.
+Si la urgencia es real y no localizas la FDS o el procedimiento, eso no autoriza a improvisar: es precisamente la señal para escalar al responsable o al servicio de emergencias de la planta.
+Si me dices qué sustancia es y qué tipo de recipiente, te ayudo a revisar qué apartados de la FDS son críticos, a preparar el aviso a tu responsable o a montar una lista de verificación previa, sin sustituir nunca el procedimiento oficial de tu planta.
