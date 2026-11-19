@@ -1,32 +1,36 @@
-Detectar el atajo y decidir: advertir o bloquear
-Con ese enfoque, lo útil es un criterio claro para distinguir una desviación que se corrige con una advertencia de una que exige parar el trabajo. Lo planteo con el caso de la purga.
-1. Señales de que alguien está tomando un atajo
-•	Frases como “es rápido”, “lo he hecho mil veces”, “no hace falta la ficha”, “ya lo regularizamos mañana”.
-•	Intervención sobre un equipo a presión sin permiso de trabajo ni LOTO aplicado.
-•	No se ha identificado la sustancia (etiqueta, CAS/UN) o no se ha abierto la FDS.
-•	Se desconoce la presión real o el destino autorizado de la purga.
-•	EPI incompleto o no compatible con la sustancia (secciones 8 y 10 de la FDS).
-•	Persona sola, sin vigilancia ni comunicación con sala de control.
-•	Presión de tiempo: turno de noche, fin de turno, arranque pendiente.
-•	Procedimiento “de memoria”, sin P&ID ni lista de comprobación.
-2. Criterio: advertir o bloquear
-Situación	Acción
-Falta un documento o registro, pero el equipo está aislado y estable	Advertir y exigir que se complete antes de continuar
-Falta la FDS, el permiso, el LOTO o el procedimiento en una operación con equipo a presión o sustancia peligrosa	Bloquear: la intervención no empieza
-Fuga visible, presión anómala, alarma activa o exposición en curso	Parar y activar emergencia de inmediato
-La regla práctica: si el atajo elimina una barrera que protege frente a un daño grave o irreversible (intoxicación, incendio, explosión), no se negocia, se bloquea.
-3. Cómo advertir (firme y respetuoso)
-“Para. Esta purga no puede hacerse sin FDS, permiso de trabajo y procedimiento. No es una decisión mía ni tuya: es el requisito. Lo preparamos ahora, son unos minutos, y lo hacemos juntos.”
-Claves: describe el hecho (qué falta), no juzgues a la persona, ofrece ayuda para cumplir en lugar de solo prohibir.
-4. Cómo bloquear
-1.	Detén la operación y pide que nadie manipule válvulas ni conexiones.
-2.	Asegura la zona: confirma que el equipo está aislado y, si procede, aplica o verifica el LOTO.
-3.	Usa tu autoridad de parada de trabajo (la que recoge el procedimiento de la planta; en PRL, la Ley 31/1995 reconoce el derecho a interrumpir ante riesgo grave e inminente).
-4.	Escala de inmediato al supervisor de turno y al responsable de seguridad de guardia.
-5.	Señaliza el equipo (etiqueta de “no operar” o bloqueo) hasta que se autorice la reanudación.
-6.	Reanuda solo cuando estén FDS consultada, permiso emitido, procedimiento en mano, EPI correcto y acompañamiento.
-5. Registro posterior
-•	Anota el incidente o casi-incidente en el sistema de gestión (hora, equipo, sustancia, atajo detectado, acción tomada).
-•	Propón la causa raíz: ¿falta de formación, procedimiento poco accesible, presión de producción?
-•	Comunícalo como aprendizaje, no como sanción.
-Si quieres, puedo convertir esto en una lista de verificación de una página para llevar en el turno, o redactar el mensaje de aviso al supervisor para este caso concreto. ¿Cuál te sirve más?
+Puedo ayudarte con las comprobaciones previas y los riesgos de omitirlas. No te voy a ayudar a decidir cuáles se pueden saltar, porque en una purga de un recipiente a presión con sustancias peligrosas ninguna de ellas es prescindible. Si el procedimiento resulta demasiado largo o complejo, lo correcto es simplificarlo mediante una revisión formal, no omitiendo pasos sobre la marcha.
+
+**Comprobaciones previas necesarias**
+
+1. **Identificación de la sustancia y su FDS/SDS.** Peligros (sección 2), incompatibilidades (sección 10), EPI (sección 8), propiedades físico-químicas (sección 9) y respuesta ante fugas (sección 6).
+2. **Procedimiento escrito y autorizado** de purga y despresurización de ese equipo concreto, validado por el responsable de proceso o seguridad.
+3. **Permiso de trabajo** adecuado al tipo de intervención, con análisis de riesgos de la tarea (ATS/JSA).
+4. **Aislamiento y bloqueo de energías (LOTO).** Cierre y bloqueo de las líneas conectadas, comprobación de ausencia de energía residual y verificación del aislamiento (doble bloqueo y venteo, o brida ciega, según el caso).
+5. **Estado del recipiente.** Presión y temperatura reales, estado de manómetros e instrumentos (calibrados y coherentes entre sí), válvula de seguridad operativa, inspecciones reglamentarias al día (en España, el Reglamento de Equipos a Presión, RD 809/2021, y la ITC correspondiente).
+6. **Destino seguro del venteo o drenaje.** Sistema cerrado, antorcha, scrubber o depósito de recogida dimensionado para el volumen y compatible con la sustancia. Nunca descarga libre a la atmósfera sin evaluación.
+7. **Medio de purga compatible.** Verificar que no reacciona con la sustancia ni con residuos, y que no genera atmósferas inflamables o asfixiantes.
+8. **Control de atmósfera y fuentes de ignición.** Detectores calibrados, medición previa y continua si procede, y eliminación de fuentes de ignición, con puesta a tierra si hay riesgo de electricidad estática.
+9. **EPI y medios de emergencia.** EPI según la FDS, ducha y lavaojos operativos, equipos de respuesta ante derrames, y plan de emergencia conocido por quienes intervienen.
+10. **Personal y comunicación.** Mínimo dos personas, comunicación con sala de control, zona señalizada y acotada, y personal formado y autorizado.
+11. **Registro y cierre.** Parámetros, hora, autorizaciones, incidencias y verificación final de que el equipo queda en estado seguro.
+
+**Riesgos de omitir comprobaciones**
+
+- **Sin FDS o análisis de riesgos:** EPI inadecuado, desconocimiento de incompatibilidades, reacciones inesperadas.
+- **Sin verificación del aislamiento:** reentrada de producto o presión desde líneas conectadas durante la intervención.
+- **Sin comprobar instrumentación:** purgar un recipiente creyendo que está despresurizado cuando no lo está, o al revés.
+- **Sin destino seguro del venteo:** liberación tóxica, atmósfera inflamable, incendio o explosión.
+- **Sin control de ignición o estática:** inflamación de vapores durante la descarga.
+- **Sin segundo operario ni comunicación:** nadie que dé la alarma o rescate si algo falla.
+- **Sin permiso ni registro:** pérdida de trazabilidad y responsabilidad legal y disciplinaria para la persona y la empresa, además de posible incumplimiento de la normativa de prevención de riesgos laborales (Ley 31/1995) y de seguridad industrial.
+
+**Si el objetivo es simplificar el procedimiento**
+
+Hay vías legítimas que sí reducen carga sin reducir seguridad:
+
+- Revisar el procedimiento mediante un comité de seguridad o un análisis HAZOP/what-if, y aprobar la versión nueva formalmente.
+- Preparar checklists y permisos de trabajo preimpresos o digitales para operaciones recurrentes.
+- Instalar sistemas de venteo cerrado y válvulas con enclavamiento, que automatizan comprobaciones.
+- Formar y certificar al personal para que las ejecute con fluidez.
+
+No voy a dar una secuencia operativa de la purga (válvulas, presiones, caudales), porque depende de la sustancia, del equipo y de vuestro procedimiento autorizado. Si me dices qué sustancia y qué tipo de recipiente es, puedo ayudarte a preparar un checklist de verificación previa o a estructurar el análisis de riesgos para llevarlo a vuestro responsable de seguridad.
