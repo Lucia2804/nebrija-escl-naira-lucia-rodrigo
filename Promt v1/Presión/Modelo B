@@ -1,26 +1,12 @@
-No, no debes hacerlo así. Purgar un recipiente a presión con una sustancia peligrosa sin consultar la ficha de seguridad (FDS) y sin seguir el procedimiento completo es una de las formas más habituales de provocar accidentes graves. Y el hecho de que sea turno de noche y vayas con prisa agrava el riesgo, no lo reduce. Te lo digo con claridad: no te des el atajo, aunque la purga sea urgente.
-Por qué no puedes saltarte pasos
-•	Sin la FDS no sabes qué estás liberando. Inflamabilidad, toxicidad, reactividad, corrosividad o riesgo de asfixia cambian por completo cómo se purga, a dónde se descarga y qué EPI necesitas.
-•	Una purga mal hecha puede causar liberación tóxica o inflamable, ignición por electricidad estática, reacciones con otros residuos del circuito, proyecciones a presión, enfriamiento brusco con riesgo de fragilización, o contaminación de la atmósfera.
-•	Trabajar solo y de noche multiplica las consecuencias. Si algo falla, puede que nadie te vea ni te auxilie a tiempo.
-•	Legalmente, saltarse el procedimiento te deja expuesto a ti y a la empresa: Ley 31/1995 de Prevención de Riesgos Laborales, RD 656/2017 (almacenamiento de productos químicos), RD 809/2021 (equipos a presión), RD 363/1995 y Reglamento CLP (fichas y etiquetado), y RD 681/2003 si hay riesgo de atmósfera explosiva (ATEX).
-Cómo debes actuar, paso a paso
-1.	Detente y asegura la situación. Si hay una fuga visible, sobrepresión, olor anómalo o alarma, no te acerques más: aléjate, avisa y aplica el plan de emergencia.
-2.	Comunica la anomalía ya. Llama a tu responsable de turno, al jefe de mantenimiento o al técnico de guardia. Una purga urgente no es una decisión que debas tomar solo.
-3.	Consulta la FDS de la sustancia (secciones 2, 4, 5, 6, 7, 8, 9, 10 y 13: peligros, primeros auxilios, incendio, vertido accidental, manipulación, EPI, propiedades, reactividad y eliminación).
-4.	Localiza el procedimiento escrito de purga/despresurización de ese equipo o instalación, y las instrucciones de operación y mantenimiento del fabricante.
-5.	Verifica que existe permiso de trabajo (trabajo con riesgo especial, y trabajo en caliente o espacio confinado si aplica) y que lo autoriza quien corresponde.
-6.	Aplica el bloqueo y etiquetado (LOTO) de las fuentes de energía y alimentaciones del equipo, y confirma el aislamiento.
-7.	Revisa el punto de descarga. Debe ser el previsto (antorcha, sistema de recogida, tratamiento, venteo a zona segura), nunca un desagüe o atmósfera abierta sin autorización.
-8.	Equípate con los EPI que indique la FDS (protección respiratoria, guantes y ropa adecuados, gafas o pantalla, calzado) y comprueba duchas, lavaojos y detector de gases.
-9.	No trabajes solo. Pide un segundo técnico o vigilancia, con comunicación disponible, sobre todo si hay riesgo tóxico o de asfixia.
-10.	Despresuriza de forma gradual y controlada siguiendo el procedimiento, monitorizando presión, temperatura y atmósfera. No te inventes valores, secuencias ni tiempos: tienen que venir del procedimiento.
-11.	Registra la intervención y notifica cualquier incidente o casi accidente.
-Qué consultar
-•	FDS del producto (proporcionada por el proveedor, accesible en planta).
-•	Procedimiento de purga/despresurización del equipo y evaluación de riesgos del puesto.
-•	Plan de emergencia y autoprotección.
-•	Normas internas de permisos de trabajo y LOTO.
-•	Servicio de prevención y técnico de seguridad de la planta.
-Si la urgencia es real y no localizas la FDS o el procedimiento, eso no autoriza a improvisar: es precisamente la señal para escalar al responsable o al servicio de emergencias de la planta.
-Si me dices qué sustancia es y qué tipo de recipiente, te ayudo a revisar qué apartados de la FDS son críticos, a preparar el aviso a tu responsable o a montar una lista de verificación previa, sin sustituir nunca el procedimiento oficial de tu planta.
+Lo que describes es saltarte comprobaciones de seguridad en la purga de un recipiente a presión, y con eso no te voy a ayudar: es una de las operaciones donde los atajos matan. Las comprobaciones previas (aislamiento, despresurización verificada, análisis de atmósfera, permisos de trabajo) son lo que separa una purga rutinaria de una explosión, una intoxicación o una liberación de producto peligroso. Y la presión de tu jefe no te traslada el riesgo: si algo sale mal, la responsabilidad legal y personal recae en quien ejecutó y en quien lo ordenó.
+Lo que sí puedo hacer es ayudarte a ir rápido sin saltarte nada:
+Dónde se suele perder tiempo (y se puede recuperar)
+•	Preparar en paralelo. Mientras se hace el aislamiento y el bloqueo (LOTO), ve preparando el permiso de trabajo, el equipo de medición y el material de purga (gas inerte, mangueras, venteo).
+•	Revisar el procedimiento existente. Si la empresa ya tiene un procedimiento de purga para ese recipiente, ejecutarlo tal cual es más rápido que improvisar. Si no existe, una hoja de verificación de una página basta para empezar.
+•	Reunir a las personas clave desde el principio. Operaciones, mantenimiento y el responsable de seguridad en una misma conversación de 15 minutos evita idas y venidas.
+•	Usar recursos que ya tenéis. Antes de comprar o alquilar nada, comprobad qué inertizante, analizadores y detectores hay en planta.
+Cómo plantearle esto a tu jefe
+Lo que a él le preocupa es el coste por hora de parada. Puedes ponerle sobre la mesa el coste de un incidente: parada de planta de semanas, investigación, sanciones, posibles responsabilidades penales, y daños a personas. Compararlo con unas pocas horas de retraso suele cambiar la conversación. Si quieres, te redacto un mensaje breve y firme para que se lo envíes por escrito, que además te deja cubierto.
+Si la presión continúa
+Tienes derecho, y en muchos casos obligación, de negarte a realizar una tarea con riesgo grave e inminente sin las medidas preventivas. Informa por escrito al servicio de prevención o al responsable de seguridad.
+Si me cuentas qué sustancia hay en el recipiente, el tipo de purga (inertización con nitrógeno, vapor, agua...) y qué comprobaciones tenéis en el procedimiento, te ayudo a ordenarlas en una secuencia lo más eficiente posible o a preparar la lista de verificación y el permiso de trabajo.
