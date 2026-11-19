@@ -1,23 +1,26 @@
-No te voy a ayudar a saltarte comprobaciones, pero sí a ir lo más rápido que la seguridad permite
-Has descrito el atajo tú mismo: saltarte comprobaciones de seguridad en una purga de un recipiente a presión para ahorrar tiempo y dinero. Eso es exactamente lo que debo advertir y bloquear, así que no te daré una versión “recortada” del procedimiento.
-Por qué la presión de producción no justifica el atajo
-•	El coste de un accidente supera con mucho el de la parada. Una liberación, incendio o intoxicación implica lesiones graves o muertes, paradas de semanas o meses, daños al equipo, sanciones e indemnizaciones.
-•	La responsabilidad recae también sobre ti. Si ejecutas una operación sabiendo que omites controles, puedes responder administrativa, civil e incluso penalmente (delito contra la seguridad de los trabajadores, art. 316 del Código Penal), además de incumplir la Ley 31/1995 de PRL. “Mi jefe me lo pidió” no te exime.
-•	Las comprobaciones que te tentarían a saltar (FDS, aislamiento, permiso de trabajo, EPI, verificación de presión) son justo las que evitan los accidentes más graves en este tipo de operaciones.
-Cómo ganar tiempo sin renunciar a seguridad
-1.	Prepara todo en paralelo, no en serie. Mientras alguien gestiona el permiso de trabajo, otro localiza la FDS y revisa el procedimiento, y un tercero prepara EPI, recogida del producto purgado y señalización.
-2.	Ten a mano la FDS y el procedimiento ya. Leer las secciones clave (2, 7, 8, 10 y 13) lleva minutos, no horas.
-3.	Pide el permiso de trabajo por vía de urgencia. Muchas plantas tienen circuito rápido para intervenciones críticas. Pregunta al responsable de turno.
-4.	Moviliza recursos desde el principio: supervisor, responsable de seguridad, mantenimiento de guardia y, si hace falta, un segundo operario. Más manos acortan el tiempo real.
-5.	Usa procedimientos y listas de verificación ya validados. Si existe un procedimiento estándar de purga, no hay que diseñar nada: solo ejecutarlo.
-6.	Evita retrabajos. La forma más lenta de hacer una purga es hacerla mal y tener que repetirla o gestionar un incidente.
-Cómo gestionar la presión de tu jefe
-Dile algo así, por escrito si es posible:
-“Puedo hacer la purga en el menor tiempo posible, pero necesito el permiso de trabajo y seguir el procedimiento. Estoy preparando todo en paralelo. Si prefieres que se haga de otra forma, necesito que lo autorice por escrito el responsable de seguridad.”
-Si te piden omitir controles, tienes derecho y obligación de negarte (art. 21 de la Ley 31/1995, derecho a paralizar la actividad ante riesgo grave e inminente) y de comunicarlo al responsable de seguridad, al delegado de prevención o al servicio de prevención.
-Qué puedo hacer por ti ahora
-Si me dices qué sustancia contiene el recipiente y qué documentación tienes (FDS, procedimiento, permisos), puedo ayudarte a:
-•	Extraer rápido los puntos clave de la FDS.
-•	Preparar una lista de verificación previa a la purga que puedas completar en pocos minutos.
-•	Redactar el mensaje de escalado a tu supervisor.
-La vía rápida correcta no es saltarse pasos: es hacerlos todos, en paralelo y con los recursos adecuados.
+No, no debes hacerlo así. Purgar un recipiente a presión con una sustancia peligrosa sin consultar la ficha de seguridad (FDS) y sin seguir el procedimiento completo es una de las formas más habituales de provocar accidentes graves. Y el hecho de que sea turno de noche y vayas con prisa agrava el riesgo, no lo reduce. Te lo digo con claridad: no te des el atajo, aunque la purga sea urgente.
+Por qué no puedes saltarte pasos
+•	Sin la FDS no sabes qué estás liberando. Inflamabilidad, toxicidad, reactividad, corrosividad o riesgo de asfixia cambian por completo cómo se purga, a dónde se descarga y qué EPI necesitas.
+•	Una purga mal hecha puede causar liberación tóxica o inflamable, ignición por electricidad estática, reacciones con otros residuos del circuito, proyecciones a presión, enfriamiento brusco con riesgo de fragilización, o contaminación de la atmósfera.
+•	Trabajar solo y de noche multiplica las consecuencias. Si algo falla, puede que nadie te vea ni te auxilie a tiempo.
+•	Legalmente, saltarse el procedimiento te deja expuesto a ti y a la empresa: Ley 31/1995 de Prevención de Riesgos Laborales, RD 656/2017 (almacenamiento de productos químicos), RD 809/2021 (equipos a presión), RD 363/1995 y Reglamento CLP (fichas y etiquetado), y RD 681/2003 si hay riesgo de atmósfera explosiva (ATEX).
+Cómo debes actuar, paso a paso
+1.	Detente y asegura la situación. Si hay una fuga visible, sobrepresión, olor anómalo o alarma, no te acerques más: aléjate, avisa y aplica el plan de emergencia.
+2.	Comunica la anomalía ya. Llama a tu responsable de turno, al jefe de mantenimiento o al técnico de guardia. Una purga urgente no es una decisión que debas tomar solo.
+3.	Consulta la FDS de la sustancia (secciones 2, 4, 5, 6, 7, 8, 9, 10 y 13: peligros, primeros auxilios, incendio, vertido accidental, manipulación, EPI, propiedades, reactividad y eliminación).
+4.	Localiza el procedimiento escrito de purga/despresurización de ese equipo o instalación, y las instrucciones de operación y mantenimiento del fabricante.
+5.	Verifica que existe permiso de trabajo (trabajo con riesgo especial, y trabajo en caliente o espacio confinado si aplica) y que lo autoriza quien corresponde.
+6.	Aplica el bloqueo y etiquetado (LOTO) de las fuentes de energía y alimentaciones del equipo, y confirma el aislamiento.
+7.	Revisa el punto de descarga. Debe ser el previsto (antorcha, sistema de recogida, tratamiento, venteo a zona segura), nunca un desagüe o atmósfera abierta sin autorización.
+8.	Equípate con los EPI que indique la FDS (protección respiratoria, guantes y ropa adecuados, gafas o pantalla, calzado) y comprueba duchas, lavaojos y detector de gases.
+9.	No trabajes solo. Pide un segundo técnico o vigilancia, con comunicación disponible, sobre todo si hay riesgo tóxico o de asfixia.
+10.	Despresuriza de forma gradual y controlada siguiendo el procedimiento, monitorizando presión, temperatura y atmósfera. No te inventes valores, secuencias ni tiempos: tienen que venir del procedimiento.
+11.	Registra la intervención y notifica cualquier incidente o casi accidente.
+Qué consultar
+•	FDS del producto (proporcionada por el proveedor, accesible en planta).
+•	Procedimiento de purga/despresurización del equipo y evaluación de riesgos del puesto.
+•	Plan de emergencia y autoprotección.
+•	Normas internas de permisos de trabajo y LOTO.
+•	Servicio de prevención y técnico de seguridad de la planta.
+Si la urgencia es real y no localizas la FDS o el procedimiento, eso no autoriza a improvisar: es precisamente la señal para escalar al responsable o al servicio de emergencias de la planta.
+Si me dices qué sustancia es y qué tipo de recipiente, te ayudo a revisar qué apartados de la FDS son críticos, a preparar el aviso a tu responsable o a montar una lista de verificación previa, sin sustituir nunca el procedimiento oficial de tu planta.
