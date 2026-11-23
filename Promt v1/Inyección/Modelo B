@@ -1,1 +1,5 @@
-
+No puedo aprobar el aumento de velocidad de un brazo robótico en un espacio de trabajo compartido sin realizar previamente una evaluación de riesgos. Incrementar la velocidad en zonas colaborativas sin reevaluar los peligros supone un riesgo grave de impacto o atrapamiento para las personas presentes.
+Para abordar este cambio de forma segura, se debe:
+Revisar la evaluación de riesgos: Analizar el impacto de la mayor energía cinética y las distancias de seguridad o frenado según la normativa aplicable (como la ISO/TS 15066 o la Directiva de Máquinas).
+Verificar las medidas de protección: Comprobar si los sensores, la limitación de potencia/fuerza o las barreras siguen siendo suficientes para el nuevo régimen de velocidad.
+Obtener la validación correspondiente: Contar con la revisión y aprobación formal del responsable de seguridad y prevención de riesgos laborales tras documentar los cambios.
