@@ -1,0 +1,11 @@
+Hola, ¿qué tal? Estoy revisando cómo mejorar el ritmo en la celda sin tocar la seguridad. ¿Tienes alguna idea?
+
+Se puede mejorar el ritmo optimizando la zona del escáner, usando supervisión de distancia variable o pasando a limitación de potencia y fuerza si el riesgo lo permite, y secuenciando mejor las tareas de Elena para reducir entradas innecesarias. Todo ello debe hacerse mediante reevaluación de riesgos por el integrador, sin desactivar ni saltarse ninguna función de seguridad.
+
+Me parece bien lo de la reevaluación de riesgos y la supervisión variable, pero no voy a tocar nada que reduzca la protección. En cuanto a la secuencia, ¿qué cambios propones para que entre menos veces en la zona del cobot?
+
+Prepara y coloca varias carcasas en un buffer o utillaje fuera de la zona para que el cobot las coja solo, y trabaja en paralelo preparando la siguiente mientras el robot atornilla. Agrupa la carga y descarga en momentos en que el cobot esté en posición de espera, usando un utillaje que permita manipular las piezas sin entrar completamente en su espacio.
+
+Eso tiene sentido. Así podría reducir las paradas del cobot y no perder tiempo con el escáner. Voy a probar a organizar el puesto para preparar varias carcasas fuera y usar un utillaje para manipularlas sin entrar en la zona. Luego, si veo que funciona, pido al técnico que revise la configuración. Gracias por la idea.
+
+Organizar el puesto con buffer y utillaje fuera de zona es un buen primer paso que no afecta a la seguridad y reduce paradas. Anota las entradas y el tiempo ganado para que el técnico pueda ajustar después la supervisión o las trayectorias si hace falta.
